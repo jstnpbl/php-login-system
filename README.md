@@ -100,7 +100,3 @@ What this version does, and why:
 ## History
 
 The first version of this project stored usernames and passwords with reversible AES encryption using a key in the source code, let an admin "decrypt" and view user passwords, and had no login protection on the admin page. This version replaces that design. The old approach is a good example of why passwords should be hashed, not encrypted.
-
-## License
-
-Add a license of your choice (for example MIT) if you want others to reuse this code.
