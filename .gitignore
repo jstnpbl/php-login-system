@@ -1,0 +1,8 @@
+   # Your real database settings (copy of config.example.php). Never upload these.
+   config.php
+
+   # Editor and OS files
+   .vscode/
+   .idea/
+   Thumbs.db
+   .DS_Store
